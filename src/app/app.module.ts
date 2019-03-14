@@ -4,7 +4,11 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+/*******************************************************************************
+ * 版权所有（c）2018，2019，西安大华时代网络科技有限公司。保留所有权利。
+ ******************************************************************************/
+
+ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { NgbdAccordionBasic } from './accordion-basic';
 import { NgbdAccordionStatic } from './accordion-static';

@@ -1,4 +1,8 @@
-import { NgModule } from '@angular/core';
+/*******************************************************************************
+ * 版权所有（c）2018，2019，西安大华时代网络科技有限公司。保留所有权利。
+ ******************************************************************************/
+
+ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 import { NgbdAccordionBasic } from './accordion-basic';
